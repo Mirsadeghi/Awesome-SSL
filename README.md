@@ -15,6 +15,7 @@ This repository is listed relevant works on Self-Supervised Learning in recent y
 | 2021 | (MSF) Mean Shift for Self-Supervised Learning | [arXiv](https://arxiv.org/pdf/2105.07269.pdf) | [github](https://github.com/UMBCvision/MSF)
 | 2020 | (SimSiam) Exploring Simple Siamese Representation Learning      |    [arXiv](https://arxiv.org/pdf/2011.10566v1.pdf) | [github](https://github.com/facebookresearch/simsiam)
 | 2020 | Self-labelling via simultaneous clustering and representation learning | [ICLR](https://arxiv.org/pdf/1911.05371.pdf) | [github](https://github.com/yukimasano/self-label)
+| 2020 | On Mutual Information Maximization and Representation Learning | [ICLR](https://arxiv.org/pdf/1907.13625.pdf) |  [github](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning)
 | 2019 | (Deep Soft-K means) Deep clustering: On the link between discriminative models and K-means | [arXiv](https://arxiv.org/pdf/1810.04246.pdf) | [github](https://github.com/MOhammedJAbi/SoftKMeans)
 | 2019 | (UEL) Unsupervised Embedding Learning via Invariant and Spreading Instance Feature | [CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ye_Unsupervised_Embedding_Learning_via_Invariant_and_Spreading_Instance_Feature_CVPR_2019_paper.pdf) | [github](https://github.com/mangye16/Unsupervised_Embedding_Learning)
 | 2018 | Cluster Loss for Person Re-Identification | [arXiv](https://arxiv.org/pdf/1812.10325.pdf) | [github](https://github.com/shaoniangu/ClusterLoss-Pytorch-ReID) |
