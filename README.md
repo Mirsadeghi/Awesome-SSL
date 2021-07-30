@@ -25,9 +25,6 @@ This repository is listed relevant works on Self-Supervised Learning in recent y
 
 
 ## See Also
-[facebook vissl](https://github.com/facebookresearch/vissl) \
-[deep clustering toolbox](https://github.com/jizongFox/deep-clustering-toolbox)\
-[pytorch metric learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
 ## License
 
