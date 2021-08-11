@@ -6,6 +6,7 @@ This repository is listed relevant works on Self-Supervised Learning in recent y
 
 | Year        | Topic           | Paper | Code  |
 | ------------- |:--------------| :-----| :-----|
+| 2021 | Viewmaker Networks: Learning Views for Unsupervised Representation Learning | [arXiv](https://arxiv.org/pdf/2010.07432.pdf) | [github](https://github.com/alextamkin/viewmaker)
 | 2021 | (W-MSE) Whitening for Self-Supervised Representation Learning | [arXiv](https://arxiv.org/pdf/2007.06346.pdf) | [github](https://github.com/htdt/self-supervised)
 | 2021 | (Completer) Incomplete Multi-view Clustering via Contrastive Prediction | [CVPR](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf) | [github](https://github.com/XLearning-SCU/2021-CVPR-Completer)
 | 2021      | (NNCLR) With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations | [arXiv](https://arxiv.org/pdf/2104.14548.pdf) | - |
