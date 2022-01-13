@@ -16,6 +16,7 @@ This repository is listed relevant works on Self-Supervised Learning in recent y
 | 2021 | (MoBy) Self-Supervised Learning with Swin Transformers | [arXiv](https://arxiv.org/pdf/2105.04553.pdf) | [github](https://github.com/SwinTransformer/Transformer-SSL)
 | 2021 | Contrastive Clustering | [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/17037/16844) | [github](https://github.com/Yunfan-Li/Contrastive-Clustering) |
 | 2021 | (MSF) Mean Shift for Self-Supervised Learning | [arXiv](https://arxiv.org/pdf/2105.07269.pdf) | [github](https://github.com/UMBCvision/MSF)
+| 2020 | (GATCluster) Self-Supervised Gaussian-Attention Network for Image Clustering | [ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700732.pdf) | [github](https://github.com/niuchuangnn/GATCluster)
 | 2020 | (SimSiam) Exploring Simple Siamese Representation Learning      |    [arXiv](https://arxiv.org/pdf/2011.10566v1.pdf) | [github](https://github.com/facebookresearch/simsiam)
 | 2020 | Self-labelling via simultaneous clustering and representation learning | [ICLR](https://arxiv.org/pdf/1911.05371.pdf) | [github](https://github.com/yukimasano/self-label)
 | 2020 | On Mutual Information Maximization and Representation Learning | [ICLR](https://arxiv.org/pdf/1907.13625.pdf) |  [github](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning)
